@@ -1,0 +1,15 @@
+# Minimal requirements for CodeMentor AI with Gemini
+# Optimized for Python 3.13
+
+# Core Framework
+streamlit
+python-dotenv
+
+# Google Gemini (FREE!)
+google-generativeai
+
+# Code execution
+RestrictedPython
+
+# Basic utilities
+requests
