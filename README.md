@@ -1,5 +1,8 @@
 # CodeMentor AI 🧠
 
+![CodeMentor AI](media/thumbnail.png)
+
+
 **An Adaptive Programming Learning Assistant for Neurodivergent Learners**
 
 CodeMentor AI is a multi-agent system designed to make programming education accessible and engaging for neurodivergent individuals (ADHD, dyslexia, autism spectrum) and beginners who struggle with traditional learning methods.
